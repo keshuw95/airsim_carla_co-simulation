@@ -1,4 +1,4 @@
-# CARLA Drone Scenario Manager
+# AirSim CARLA Co-Simulation
 
 ## Overview
 
